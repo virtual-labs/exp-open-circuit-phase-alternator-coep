@@ -20,7 +20,7 @@
 * Iin=input current of DC motor
 * Vt=terminal voltage
 
-12. Now select one of the graph from available graphs and use “Generate graph” to plot the graph. For Ex.
+12. Now select one of the graph from available graphs and use "Generate graph" to plot the graph. For Ex.
 <center><img src="images/img4.png"title=""/></center>
 13. Slowly decrease the excitation of DC shunt motor to zero.
 14. Switch off supply.

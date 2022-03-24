@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The power factor of an alternator under short circuit conditions is almost near",
+      "answers": {
+        "a": "zero leading",
+        "b": "zero lagging",
+        "c": "unity",
+        "d": "zero leading or zero lagging depending upon the type of alternator"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a 3-phase cylindrical-rotor alternator,",
+      "answers": {
+        "a": "field mmf leads the ait-gap flux and the ait-gap flux lags the armature mmf",
+        "b": "the armature mmf leads the ait-gap flux and the ait-gap flux leads the field flux",
+        "c": "the armature mmf leads the ait-gap flux and the ait-gap flux lags the field flux",
+        "d": "field mmf leads the ait-gap flux and the ait-gap flux leads the armature mmf"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A cylindrical-rotor synchronous generator will deliver maximum power output when",
+      "answers": {
+        "a": "load angle = synchronous impedance angle",
+        "b": "load angle = internal power-factor angle",
+        "c": "1,2,4 load angle = 90&deg;",
+        "d": "input power factor is unity"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A 3-phase synchronous generator is operating at a constant load while the excitation is adjusted to give unity pf current. If the excitation is now increased, the pf will",
+      "answers": {
+        "a": "become leading",
+        "b": "become lagging",
+        "c": "remain at unity",
+        "d": "become zero"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A synchronous motor with negligible armature resistance runs at a load angle of 20&deg; at rated frequency. If supply frequency is increased by 10%, keeping other parameters constant, the new load angle will be ",
+      "answers": {
+        "a": "16&deg;",
+        "b": "18&deg;",
+        "c": "20&deg;",
+        "d": "22&deg;"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

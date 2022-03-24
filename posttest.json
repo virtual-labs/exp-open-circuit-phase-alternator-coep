@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A cylindrical-rotor alternator on load draws a current at a leading pf angle &Theta; and with an internal pf angle &Psi;. Under this operating condition, electrical angle between fiend axis and armature-reaction axis is",
+      "answers": {
+        "a": "90 + &Psi;",
+        "b": "90 + &Theta;",
+        "c": "90 - &Psi;",
+        "d": "90 - &Theta;"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following will change in a 3-phase synchronous motor, as a consequence of excitation variations? 1. Pull-out torque 2. Torque angle 3. Magnitude and power factor of stator current 4. Output power Select the correct answer using the codes given below :",
+      "answers": {
+        "a": "1 and 3",
+        "b": "2 and 4",
+        "c": "2, 3 and 4",
+        "d": "1, 2 and 3"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A synchronous motor is operating on no load at unity power factor. If the field current is increased, the pf will become",
+      "answers": {
+        "a": "leading and the current will decrease",
+        "b": "leading and the current will increase",
+        "c": "lagging and the current will decrease",
+        "d": "lagging and the current will increase"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The power-angle characteristics of a salient-pole synchronous machine contains a second harmonic terms, because",
+      "answers": {
+        "a": "the air-gap flux density has a second harmonic component",
+        "b": "the frequency has a second harmonic component",
+        "c": "of the slot harmonics",
+        "d": "of the difference in reluctance of air-gap in the direct and quadrature axes"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a round-rotor alternator, reactive power is maximum at a load angle of",
+      "answers": {
+        "a": "0&deg;",
+        "b": "45&deg;",
+        "c": "90&deg;",
+        "d": "180&deg;"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
